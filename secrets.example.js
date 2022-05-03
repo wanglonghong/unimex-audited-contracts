@@ -1,0 +1,11 @@
+module.exports = {
+    mainnetAccounts: ['0000000000000000000000000000000000000000000000000000000000000000'],
+    mainnetApiUrl: 'https://mainnet.infura.io/v3/00000000000000000000000000000000',
+    testnetApiUrl: 'https://rinkeby.infura.io/v3/00000000000000000000000000000000',
+    testnetAccounts: ['0000000000000000000000000000000000000000000000000000000000000000'],
+    etherscanApiKey: '0000000000000000000000000000000000',
+
+    bscTestnetAccounts:  ['0000000000000000000000000000000000000000000000000000000000000000'],
+    bscTestnetApiUrl: 'https://data-seed-prebsc-1-s1.binance.org:8545/',
+    bscMainnetApiUrl: 'https://bsc-dataseed.binance.org/',
+}
